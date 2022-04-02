@@ -1,0 +1,61 @@
+Arrays Utility Class
+ -binarySearch methods()
+
+ MultiDimensional Arrays: 2D, 3D, 4D
+
+      n dimensional array:==> contains (n-1) dimensional arrays
+      2 Dimensional Array:==> contains 1 dimensional arrays
+      arr2D ={
+        {1,2,3}= index 0 for the 2D Array
+         0 1 2
+          {4,5} = index 1 for 2D array
+           0 1
+             {6,7,8,9,4}= index 2 for 2D arrays
+              0 1 2 3 4
+      }
+
+      number 8 : arr2
+
+      ********METHODS***********
+
+      -reusable
+    exp: str.length() --->takes no parameter, return type: integer
+         str.chaAt(index)--->takes parameter(integer which reps. index), returning Char
+    Custom Methods/Functions
+
+
+
+          public(private, protected, default) ===>>access-modifier
+
+          static(final, abstract) ===>>specifier
+
+          void(and any dataType===>String, int, Array...) =====>>return-type
+
+          methodeName(Parameter)(and any dataType===>String, int, Array...) {
+          statement
+          }
+
+
+     Void Methods:
+       1) With parameters
+       2) Without parameters
+
+     Non-Void / Return Type Methods
+       1) With parameters
+       2) Without parameters
+
+     Debugging:
+        Step Over: runs the line and does not go into the method body
+        Step into: goes inside the method line by line
+        step out : completes all the steps in the method and takes you out back to main method
+
+     When we create custom Methods 3 possible way of using:
+
+          First way: Inside same class--- No need to write className
+          Second way: Inside another class we want to call our method, both classes are in the same package
+                      Write ClassName.methodName   : Calculator.add()
+           Third Case: Different class and different package:
+                       Import the class first:  import week09.Calculator;
+                       Write ClassName.methodName   : Calculator.add()
+
+
