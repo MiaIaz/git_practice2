@@ -34,4 +34,7 @@ public class Developer {
         System.out.println(name+ " is fixing bug");
     }
 
+    public int getEmployeeID(int employeeID) {
+        return 0;
+    }
 }

@@ -30,4 +30,10 @@ OBJECTS:
 
    *Attribute (state of the object): Data fields, Instant Variables,
    *Behaviour(Actions): Methods, instance methods
+
+CLASSES:
+
    *Templates, blueprints of objects
+   *Instance variables: every object of that class has it's own value
+   *Instance methods: every object of that class has it's onw implementation
+

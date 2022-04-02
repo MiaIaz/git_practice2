@@ -32,4 +32,7 @@ public class Tester {
     }
 
 
+    public int getEmployeeID(int employeeID) {
+        return 0;
+    }
 }

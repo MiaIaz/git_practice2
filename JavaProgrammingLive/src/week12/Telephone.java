@@ -2,6 +2,11 @@ package week12;
 
 public class Telephone {
 
+    public static void main(String[] args) {
+
+
+    }
+
 }
 /*
 Write the definition of a class Telephone.
