@@ -1,0 +1,4 @@
+This is a amazing file and I added from Github.com
+And now I'm about to commit directly to Github.com remote repository
+This is not something we would do normaly
+We are just trying to stimulate a situation where remote repository history is ahead of local repository history
